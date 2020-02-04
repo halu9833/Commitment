@@ -4,6 +4,8 @@
     text-align:center;
     width: 100%;
   }
+
+
   h1{
     height: 50px;
     font-family: 'Lato', sans-serif;
@@ -13,12 +15,16 @@
     color: white;
     font-size: 60px;
   }
+
+
   h1 span{
     background: rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.5);
     -webkit-box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.5);
     box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.5);
   }
+
+  
   @keyframes change {
     0% {background-color: yellow;}
     20% {background-color: red;}
