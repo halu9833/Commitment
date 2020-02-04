@@ -3,4 +3,6 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form
 header{
   height: 100px;
   width: 100%;
+  z-index: 10;
+  
 }
