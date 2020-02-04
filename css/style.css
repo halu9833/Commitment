@@ -2,6 +2,7 @@
   body{
     animation: change 10s infinite;
     text-align:center;
+    width: 100%;
   }
 
   h1{
